@@ -7,6 +7,7 @@
 [![Durham](https://img.shields.io/badge/Durham_University-Computer_Science-purple?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.dur.ac.uk)
 [![Java](https://img.shields.io/badge/Java-Paper_API-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://papermc.io)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Plugin_Dev-62B047?style=flat-square&logo=minecraft&logoColor=white)](https://papermc.io/javadocs/paper)
+![](https://img.shields.io/badge/Minecraft-Server%20Owner-9d263d?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
