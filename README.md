@@ -64,8 +64,8 @@ Tools         │  Git · VS Code
 
 ## 🔗 Connect
 
-[![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/qJAx8w3jcn))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Amakin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samuel-makin-34437223b/?skipRedirect=true))
+[![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([https://discord.gg/qJAx8w3jcn])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Makin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/samuel-makin-34437223b/?skipRedirect=true])
 
 ---
 
