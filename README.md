@@ -61,17 +61,6 @@ Tools         │  Git · VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamsSide&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamsSide&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect
 
 [![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/qJAx8w3jcn))
