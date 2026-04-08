@@ -2,7 +2,7 @@
 
 # Hey, I'm Sam 👋
 
-**CS Student @ Durham University** · Plugin Dev · Modder · Server Owner
+**CS Student @ Durham University** · Plugin Dev · Modder · Minecraft Server Owner
 
 [![Durham](https://img.shields.io/badge/Durham_University-Computer_Science-purple?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.dur.ac.uk)
 [![Java](https://img.shields.io/badge/Java-Paper_API-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://papermc.io)
@@ -28,8 +28,8 @@
 
 ```
 Languages     │  Java · C# · Python · HTML · CSS
-Minecraft     │  Paper API 1.21.1 · Maven · IntelliJ IDEA
-Modding       │  Farming Simulator · Lua · Giants Editor 10 · XML
+Minecraft     │  Paper API · Maven
+Modding       │  Farming Simulator · Lua · Giants Editor 8/9/10 · XML
 3D / Design   │  Blender
 Hosting       │  VPS · Linux · Minecraft Server Management
 Tools         │  Git · VS Code
@@ -44,12 +44,12 @@ Tools         │  Git · VS Code
 > Handling plugin configuration, server management, VPS hosting, and custom development
 
 ### ⚒️ Minecraft Plugin Development
-> Custom plugins built with the **Paper API 1.21.1** (Java 21 · Maven)  
+> Custom plugins built with the **Paper API** (Java 21 · Maven)  
 > Focus on gameplay mechanics, server utilities, and quality-of-life features
 
 ### 🚜 Farming Simulator Modding
 > Custom map creation and Lua scripting using **Giants Editor 10**  
-> FS mod scripts, vehicle and equipment tuning, terrain and map design
+> FS mod scripts, terrain and map design
 
 ---
 
@@ -57,7 +57,7 @@ Tools         │  Git · VS Code
 
 - ⚒️ **Paper Plugin Dev** — deepening Java skills through real plugin projects
 - 🖥️ **Server Back-End** — infrastructure, performance, and tooling for Crafted Survival SMP
-- 🎓 **Durham CS Year 1** — Algorithms & Data Structures, Discrete Maths, Computer Systems, Computational Thinking
+- 🎓 **Durham CS Year 1** — Algorithms & Data Structures, Discrete Maths, Computer Systems, Computational Thinking, Programming, Mathematics
 
 ---
 
@@ -65,8 +65,8 @@ Tools         │  Git · VS Code
 
 <div align="center">
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamsSide&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamsSide&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -74,8 +74,8 @@ Tools         │  Git · VS Code
 
 ## 🔗 Connect
 
-[![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Amakin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/qJAx8w3jcn))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Amakin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samuel-makin-34437223b/?skipRedirect=true))
 
 ---
 
