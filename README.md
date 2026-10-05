@@ -1,85 +1,61 @@
 <div align="center">
 
-# Hey, I'm Sam 👋
+# Sam Makin
 
-**CS Student @ Durham University** · Plugin Dev · Modder · Minecraft Server Owner · Self-Hoster
+**Computer Science at Durham University. I build games, server infrastructure and AI tooling.**
 
-[![Durham](https://img.shields.io/badge/Durham_University-Computer_Science-purple?style=flat-square&logo=graduation-cap&logoColor=white)](https://www.dur.ac.uk)
-[![Java](https://img.shields.io/badge/Java-Paper_API-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://papermc.io)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Plugin_Dev-62B047?style=flat-square&logo=minecraft&logoColor=white)](https://papermc.io/javadocs/paper)
-![](https://img.shields.io/badge/Minecraft-Server%20Owner-9d263d?style=flat-square&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Self--Hosted-Homelab-1793D1?style=flat-square&logo=linux&logoColor=white)
+West Yorkshire, UK
+
+[![Discord](https://img.shields.io/badge/Discord-Crafted_Survival-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qJAx8w3jcn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Makin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-makin-34437223b/?skipRedirect=true)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-- 🎓 Going into my **second year** of **Computer Science** at **Durham University**
-- ⚒️ Building Minecraft server plugins with the **Paper API** (Java 21 / Maven)
-- 🌐 Owner of **Crafted Survival SMP** — a live server with **10,000+ lifetime players** on a Velocity proxy + Paper backend architecture
-- 📱 Building cross-platform **iOS / Android apps** with **Flutter**
-- 🤖 Deeply interested in **AI** — self-hosting personal assistants and building agentic workflows around my projects
-- 🖥️ Running a **self-hosted homelab** (dedicated server + Mac Mini) for hosting, dev, and automation
-- 🚜 Farming Simulator modder — custom maps, Lua scripts, and Giants Editor 10 workflows
-- 🏋️ Gym enjoyer
-- 📍 Based in West Yorkshire, UK
+I'm heading into my second year of Computer Science at Durham. Most of what I do sits somewhere between game development, backend systems and developer tooling. I run a live Minecraft server, build Roblox games from code, and spend a lot of time making AI coding agents more useful and more reliable. Outside of that I lift, tinker with a homelab, and mod Farming Simulator.
 
 ---
 
-## 🛠️ Tech & Tools
+## What I'm building
 
-```
-Languages     │  Java · Dart · C# · Python · HTML · CSS
-Minecraft     │  Paper API · Velocity · Maven
-Mobile        │  Flutter · iOS · Android
-Modding       │  Farming Simulator · Lua · Giants Editor 8/9/10 · XML
-AI / Agents   │  LLM agentic workflows · self-hosted assistants
-Hosting       │  Linux · Docker · Tailscale · Caddy · Nextcloud · Pi-hole
-Tools         │  Git · VS Code · Claude Code
-```
+### Roblox
 
----
+Games built code-first: Luau on disk, synced with Rojo, driven and tested through Studio MCP and the Open Cloud APIs. I model assets in Blender and ship them to Studio through a scripted FBX pipeline, with automated tests and CI instead of clicking through Studio by hand.
 
-## 🚀 Projects
+### Crafted Survival SMP
 
-### 🌐 Crafted Survival SMP
-> Owner and developer of a live Minecraft SMP with **10,000+ lifetime players**
-> Velocity proxy + Paper backend on a **Ryzen 9 7950X / 128GB DDR5** dedicated machine
-> Handling plugin development, server management, infrastructure, and monetisation
+Owner and developer of a Minecraft server with more than 10,000 lifetime players, running a Velocity proxy in front of Paper backends on dedicated hardware. I write the plugins myself (Java 21, Paper API, Maven) and handle the infrastructure, crossplay and day-to-day running of the server.
 
-### ⚒️ Minecraft Plugin Development
-> Custom plugins built with the **Paper API** (Java 21 · Maven) under the SamsSide org
-> Focus on gameplay mechanics, server utilities, admin tooling, and quality-of-life features
+### AI and agent tooling
 
-### 📱 Cross-Platform App Development
-> Building **iOS / Android apps** with **Flutter**
-> Structured, spec-first workflow — detailed planning → staged build stages → iterative implementation and testing
-
-### 🖥️ Homelab & Self-Hosting
-> Headless **Mac M1 Mini** server running Nextcloud, Tailscale, Caddy, Pi-hole and OrbStack
-> Remote-dev setup, automation, and self-hosted **AI assistants** for personal workflows
-
-### 🚜 Farming Simulator Modding
-> Custom map creation and Lua scripting using **Giants Editor 10**
-> FS mod scripts, terrain and map design
+Custom Claude Code skills and agents that encode how I like to work: spec-first planning, test-driven execution, and parallel sessions on separate git worktrees. The aim is repeatable agentic workflows that hold up on real projects.
 
 ---
 
-## 📚 Currently Working On
+## Also
 
-- 🤖 **AI & Agents** — self-hosting personal AI assistants and building agentic dev/automation workflows on my homelab
-- 📱 **Mobile Apps** — shipping Flutter iOS/Android apps via a repeatable, spec-driven build pipeline
-- ⚒️ **Paper Plugin Dev** — deepening Java skills through real, production plugin projects
-- 🖥️ **Infrastructure** — scaling Crafted Survival (Bedrock crossplay via Geyser/Floodgate, multi-server proxy setup) and building out my self-hosted stack
-- 🎓 **Durham CS Year 2** — carrying forward foundations in algorithms, systems, and mathematics
+**App development** with Flutter on iOS and Android. **Farming Simulator modding**: custom maps and Lua scripting in Giants Editor, with Blender for models. **Homelab**: a Mac Mini and a dedicated server for hosting, development and automation.
 
 ---
 
-## 🔗 Connect
+## Stack
 
-[![Discord](https://img.shields.io/badge/Crafted_Survival_SMP-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qJAx8w3jcn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Makin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-makin-34437223b/?skipRedirect=true)
+| | |
+|---|---|
+| **Languages** | Java, Luau, Dart, Python, C#, Lua, HTML/CSS |
+| **Game platforms** | Roblox (Rojo, Studio, Open Cloud), Paper, Velocity, Farming Simulator |
+| **3D and assets** | Blender, Giants Editor |
+| **Mobile** | Flutter |
+| **Infrastructure** | Linux, Docker, Tailscale, Caddy, Nextcloud, Pi-hole |
+| **Tooling** | Git, GitHub Actions, VS Code, Claude Code |
 
 ---
+
+<div align="center">
+
+<sub>Always happy to talk plugins, Roblox, or agents. Find me on Discord or LinkedIn above.</sub>
+
+</div>
